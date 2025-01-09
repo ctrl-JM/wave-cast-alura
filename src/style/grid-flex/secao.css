@@ -5,7 +5,7 @@
 
 }
 
-.secao-horizontal, secao-vertical {
+.secao-horizontal, .secao-vertical {
     grid-template-rows: 70px auto;
 }
 
